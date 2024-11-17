@@ -60,7 +60,8 @@ Ensure you have the following installed on your system:
 2. Open a terminal and navigate to the directory containing the `main.rs` file.
 3. Compile and run the program:
    ```bash
-   rustc main.rs && ./main
+   cargo build
+   cargo run
    ```
 
 ---
